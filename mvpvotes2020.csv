@@ -1,0 +1,21 @@
+,,,,,,,,,,,,Scoring,Scoring,Scoring,Scoring,Goalie Stats,Goalie Stats,Goalie Stats,Goalie Stats,Goalie Stats,Point Shares,Point Shares,Point Shares,Point Shares
+Place,Player,Age,Tm,Pos,Votes,Vote%,1st,2nd,3rd,4th,5th,G,A,PTS,+/-,W,L,T/O,GAA,SV%,OPS,DPS,GPS,PS
+1,Leon Draisaitl\draisle01,24,EDM,C,1309,77.00,91,31,26,16,4,43,67,110,-7,,,,,,10.9,1.8,0.0,12.8
+2,Nathan MacKinnon\mackina01,24,COL,C,1162,68.35,48,66,34,15,5,35,58,93,13,,,,,,8.9,1.9,0.0,10.8
+3,Artemi Panarin\panarar01,28,NYR,LW,889,52.29,24,41,54,25,17,32,63,95,36,,,,,,8.8,2.6,0.0,11.4
+4,David Pastrnak\pastrda01,23,BOS,RW,369,21.71,3,12,15,43,51,48,47,95,21,,,,,,10.8,2.4,0.0,13.2
+5,Connor McDavid\mcdavco01,23,EDM,C,309,18.18,1,7,24,33,31,34,63,97,-6,,,,,,9.3,1.6,0.0,10.9
+6,Connor Hellebuyck\helleco01,26,WPG,G,283,16.65,3,13,15,22,21,0,2,2,0,31,21,5,2.57,.922,0.0,0.0,12.5,12.5
+7,Roman Josi\josiro01,29,NSH,D,29,1.71,0,0,1,6,6,16,49,65,22,,,,,,6.1,4.8,0.0,10.9
+8,Jack Eichel\eicheja01,23,BUF,C,14,0.82,0,0,0,2,8,36,42,78,5,,,,,,7.5,2.0,0.0,9.5
+9,Brad Marchand\marchbr03,31,BOS,LW,12,0.71,0,0,0,3,3,28,59,87,25,,,,,,7.8,2.6,0.0,10.4
+10,Evgeni Malkin\malkiev01,33,PIT,C,8,0.47,0,0,0,1,5,25,49,74,7,,,,,,7.0,1.5,0.0,8.5
+10,Auston Matthews\matthau01,22,TOR,C,8,0.47,0,0,0,1,5,47,33,80,19,,,,,,8.9,2.0,0.0,10.8
+12,John Carlson\carlsjo01,30,WSH,D,7,0.41,0,0,1,0,2,15,60,75,12,,,,,,7.2,3.5,0.0,10.7
+13,Nikita Kucherov\kucheni01,26,TBL,RW,6,0.35,0,0,0,1,3,33,52,85,26,,,,,,8.3,2.1,0.0,10.5
+13,Alex Ovechkin\ovechal01,34,WSH,LW,6,0.35,0,0,0,1,3,48,19,67,-12,,,,,,8.0,0.8,0.0,8.7
+15,Jacob Markstrom\marksja02,30,VAN,G,3,0.18,0,0,0,1,0,0,1,1,0,23,16,4,2.75,.918,0.0,0.0,9.2,9.2
+16,Elias Pettersson\petteel01,21,VAN,C,3,0.18,0,0,0,0,3,27,39,66,16,,,,,,5.7,2.0,0.0,7.7
+17,Tristan Jarry\jarrytr01,24,PIT,G,1,0.06,0,0,0,0,1,0,0,0,0,20,12,1,2.43,.921,0.0,0.0,6.7,6.7
+17,Patrick Kane\kanepa01,31,CHI,RW,1,0.06,0,0,0,0,1,33,51,84,8,,,,,,7.7,1.9,0.0,9.6
+17,J.T. Miller\millejt01,26,VAN,C,1,0.06,0,0,0,0,1,27,45,72,11,,,,,,6.0,1.9,0.0,7.9

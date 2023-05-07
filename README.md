@@ -1,1 +1,1 @@
-# Machine-Learning-Model---NHL-MVP-Prediction
+# Machine Learning Model - NHL MVP Prediction
